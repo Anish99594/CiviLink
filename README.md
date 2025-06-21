@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](assets/DashboardImage.png)
 
-# 🗳️ Liquid Democracy - Network States Governance
+# 🗳️ CiviLink - Network States Governance
 
 A revolutionary governance system combining direct democracy, delegation, and quadratic voting for truly decentralized decision-making. Built for the future of network states and DAOs.
 
