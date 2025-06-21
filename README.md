@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@liquiddemocracy.com or join our Discord community.
+For support, email anishgajbhare2000@gmail.com or join our Discord community.
 
 ---
 
