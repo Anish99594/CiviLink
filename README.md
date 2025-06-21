@@ -83,7 +83,7 @@ The smart contracts are already deployed on Base Sepolia testnet:
 
 ### 📐 System Architecture Diagram
 
-![Architecture Diagram](assets/ArchitectureDiagram.png)
+![Architecture Diagram](assets/Architecture.png)
 
 ### Frontend Stack
 - **React 18** - Modern React with hooks and functional components
