@@ -1,6 +1,6 @@
 ## 📱 Dashboard Preview
 
-![Dashboard Preview](assets/Screenshot 2025-06-21 at 2.04.26 PM.png)
+![Dashboard Preview](assets/DashboardImage.png)
 
 # 🗳️ Liquid Democracy - Network States Governance
 
