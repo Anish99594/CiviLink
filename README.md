@@ -1,3 +1,7 @@
+## 📱 Dashboard Preview
+
+![Dashboard Preview](assets/Screenshot 2025-06-21 at 2.04.26 PM.png)
+
 # 🗳️ Liquid Democracy - Network States Governance
 
 A revolutionary governance system combining direct democracy, delegation, and quadratic voting for truly decentralized decision-making. Built for the future of network states and DAOs.
