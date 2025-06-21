@@ -36,7 +36,7 @@ const Navbar = () => {
             <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
               <Vote className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold gradient-text">Liquid Democracy</span>
+            <span className="text-xl font-bold gradient-text">CiviLink</span>
           </Link>
 
           {/* Desktop Navigation */}
