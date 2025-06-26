@@ -11,8 +11,6 @@ A revolutionary governance system combining direct democracy, delegation, and qu
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.20-orange?style=for-the-badge&logo=solidity)
 ![Base](https://img.shields.io/badge/Base-Sepolia-0052FF?style=for-the-badge&logo=base)
 
-# 🗳️ CiviLink - Network States Governance
-
 ## 🔗 Project Links
 
 - 🚀 **Live App**: [https://civi-link.vercel.app/](https://civi-link.vercel.app/)
